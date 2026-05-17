@@ -2,6 +2,8 @@
 
 https://github.com/gohugoio/hugo
 
+https://hub.docker.com/r/ip10111/hugo
+
 ## Usage Examples:
 
 Build:
